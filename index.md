@@ -1,4 +1,4 @@
-# PycoGroup
+# PycoGroup's B.O.T model
 
 We bootstrap software development centers with our Build Operate Transfer model.
 
