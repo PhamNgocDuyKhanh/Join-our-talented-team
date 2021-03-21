@@ -1,3 +1,4 @@
+<meta property="og:image" content="https://i.imgur.com/yz5E1sd.jpg"/>
 # PycoGroup's B.O.T model
 
 We bootstrap software development centers with our Build Operate Transfer model.
