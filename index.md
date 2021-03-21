@@ -1,4 +1,4 @@
-# Join our talented team
+# PycoGroup
 
 We bootstrap software development centers with our Build Operate Transfer model.
 
