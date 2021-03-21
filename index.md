@@ -1,9 +1,19 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-    <meta property="og:image" content="https://user-images.githubusercontent.com/41277644/111896563-27379100-8a4d-11eb-826b-c83cfe0eb915.jpg"/>
-    <meta property="og:title" content="JDs | Pyco's BOT" />
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">        
+  <img src="https://user-images.githubusercontent.com/41277644/111896563-27379100-8a4d-11eb-826b-c83cfe0eb915.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+</div>
+
 
 # PycoGroup's B.O.T model
 
