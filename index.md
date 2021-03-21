@@ -7,13 +7,14 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
+</head>
 <body>
 
 <div class="container">        
   <img src="https://user-images.githubusercontent.com/41277644/111896563-27379100-8a4d-11eb-826b-c83cfe0eb915.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
 </div>
-
+</body>
+</html>
 
 # PycoGroup's B.O.T model
 
@@ -44,6 +45,3 @@ Drop me a message, I'll take care of the rest:
 
 Skype: phamngocduykhanh or [Linkedin](https://www.linkedin.com/in/khanhpnd/)
 ![koushik-chowdavarapu-unsplash](https://user-images.githubusercontent.com/41277644/111896563-27379100-8a4d-11eb-826b-c83cfe0eb915.jpg)
-
-</body>
-</html>
