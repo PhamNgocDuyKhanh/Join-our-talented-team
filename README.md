@@ -1,4 +1,4 @@
-# Join our talented team
+# Join-our-talented-team
 We bootstrap software development centers with our Build Operate Transfer model.
 
 **What we are building?**
