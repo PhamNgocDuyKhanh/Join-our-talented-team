@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Join our talented team
 
-You can use the [editor on GitHub](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We bootstrap software development centers with our Build Operate Transfer model.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What we are building? 
+PYCOGROUP is a specialist in the B.O.T model. Our BOT model provides a long-term solution for successfully delivering your product roadmap without outsourcing your software development. In just a few weeks, we can set up dedicated software development teams in Vietnam which will be steadily integrated in your organization and can eventually be fully transferred.
 
-### Markdown
+_Our BOT model consists of three phases:_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**1. BUILD:** Based on your needs and requirements we source candidates from our extensive talent pool. You make the final decision about the team structure and vet each engineer while we build your development center from the ground up.
 
-```markdown
-Syntax highlighted code block
+**2. OPERATE:** We professionally manage and operate your software development center to the highest standards so that you can focus on your technological road-map and core business activities.
 
-# Header 1
-## Header 2
-### Header 3
+**3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
+### Pick your job, Pick your future
+- [Development Manager](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Development%20Manager.pdf)
+- [OTAs-Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Team%20Lead.pdf)
+- [OTAs-Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Developer.pdf)
+- [OTAs-QA Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-QA%20Engineer.pdf)
+- [Fintech-Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Java%20Developer.pdf)
+- [Fintech-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
+- [MessageMedia-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
 
-- Bulleted
-- List
+### Are you interested in joining us and make an impact on the world by every line of code?
 
-1. Numbered
-2. List
+Drop me a message, I'll take care of the rest:
 
-**Bold** and _Italic_ and `Code` text
+Skype: phamngocduykhanh or [Linkedin](https://www.linkedin.com/in/khanhpnd/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
