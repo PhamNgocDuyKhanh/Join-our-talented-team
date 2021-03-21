@@ -4,6 +4,7 @@
     <meta property="og:image" content="https://user-images.githubusercontent.com/41277644/111896563-27379100-8a4d-11eb-826b-c83cfe0eb915.jpg"/>
     <meta property="og:title" content="JDs | Pyco's BOT" />
 </html>
+
 # PycoGroup's B.O.T model
 
 We bootstrap software development centers with our Build Operate Transfer model.
