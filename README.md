@@ -1,7 +1,7 @@
 # Join-our-talented-team
 We bootstrap software development centers with our Build Operate Transfer model.
 
-**What we are building?**
+**What are we building?**
 PYCOGROUP is a specialist in the B.O.T model.
 Our BOT model provides a long-term solution for successfully delivering your product roadmap without outsourcing your software development. In just a few weeks, we can set up dedicated software development teams in Vietnam which will be steadily integrated in your organization and can eventually be fully transferred.
 
