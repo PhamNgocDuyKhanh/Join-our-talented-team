@@ -14,6 +14,7 @@ Our BOT model consists of three phases:
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 
 **Are you interested in joining us and make an impact on the world by every line of code?**
+
 Drop me a message, I'll take care of the rest:
 - Skype: phamngocduykhanh
 - Linkedin: https://www.linkedin.com/in/khanhpnd/
