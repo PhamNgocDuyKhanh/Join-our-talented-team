@@ -21,6 +21,7 @@ _Our BOT model consists of three phases:_
 - [Fintech-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
 - [CW-PHP Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-PHP%20Team%20Lead.pdf)
 - [CW-PHP Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20_%20Senior%20PHP%20Developer.pdf)
+- [CW-Angular Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20-%20Senior%20Angular%20Developer.pdf)
 - [MessageMedia-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
