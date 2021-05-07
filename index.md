@@ -24,7 +24,7 @@ _Our BOT model consists of three phases:_
 - [CW-Angular Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20-%20Senior%20Angular%20Developer.pdf)
 - [MessageMedia-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
 - [MessageMedia-Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia-Senior%20Java%20Developer.pdf)
-- [MessageMedia-Principal-Tech Lead ReactJs Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia-Principal-Tech%20Lead%20ReactJs%20Engineer.pdf)
+- [MessageMedia-Principal-Tech Lead ReactJs Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia%20-%20Principal-Tech%20Lead%20ReactJs%20Engineer.pdf)
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
