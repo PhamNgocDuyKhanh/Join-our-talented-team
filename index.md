@@ -13,7 +13,7 @@ _Our BOT model consists of three phases:_
 
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 ### Pick your job, Pick your future
-- | [NBOT_Development Manager](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Development%20Manager.pdf)
+- [NBOT_Development Manager](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Development%20Manager.pdf) | 
 - [Tripadvisor_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Team%20Lead.pdf)
 - [Tripadvisor_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Developer.pdf)
 - [Tripadvisor_QA Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-QA%20Engineer.pdf)
