@@ -22,11 +22,11 @@ _Our BOT model consists of three phases:_
 - [CW_PHP Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-PHP%20Team%20Lead.pdf)
 - [CreditorWatch_PHP Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20_%20Senior%20PHP%20Developer.pdf)
 - [CreditorWatch_Angular Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20-%20Senior%20Angular%20Developer.pdf)
-- [MessageMedia-Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
+- [MessageMedia_Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf)
 - [MessageMedia_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia-Senior%20Java%20Developer.pdf)
 - [MessageMedia_Principal-Tech Lead ReactJs Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia%20-%20Principal-Tech%20Lead%20ReactJs%20Engineer.pdf)
-- [ISC_Java Team Lead] | Open-source Solutions (https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Java%20Team%20Lead.pdf)
-- [ISC_Senior-Medior Java Developer] | Open-source Solutions (https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Senior-Medior%20Java%20Developer.pdf)
+- [ISC_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Java%20Team%20Lead.pdf) | Open-source Solutions 
+- [ISC_Senior-Medior Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Senior-Medior%20Java%20Developer.pdf) | Open-source Solutions
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
