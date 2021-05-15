@@ -25,8 +25,8 @@ _Our BOT model consists of three phases:_
 - [MessageMedia_Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf) |
 - [MessageMedia_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia-Senior%20Java%20Developer.pdf) |
 - [MessageMedia_Principal-Tech Lead ReactJs Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia%20-%20Principal-Tech%20Lead%20ReactJs%20Engineer.pdf) |
-- [ISC_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Java%20Team%20Lead.pdf)Open-source Solutions|  
-- [ISC_Senior-Medior Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Senior-Medior%20Java%20Developer.pdf)Open-source Solutions | 
+- [ISC_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Java%20Team%20Lead.pdf) Open-source Solutions |  
+- [ISC_Senior-Medior Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Senior-Medior%20Java%20Developer.pdf) Open-source Solutions | 
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
