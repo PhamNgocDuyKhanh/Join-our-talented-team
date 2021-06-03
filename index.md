@@ -1,9 +1,9 @@
-# PycoGroup's B.O.T model
+# Positive Thinking's B.O.T model
 
 We bootstrap software development centers with our Build Operate Transfer model.
 
 ### What are we building? 
-PYCOGROUP is a specialist in the B.O.T model. Our BOT model provides a long-term solution for successfully delivering your product roadmap without outsourcing your software development. In just a few weeks, we can set up dedicated software development teams in Vietnam which will be steadily integrated in your organization and can eventually be fully transferred.
+Positive Thinking is a specialist in the B.O.T model. Our BOT model provides a long-term solution for successfully delivering your product roadmap without outsourcing your software development. In just a few weeks, we can set up dedicated software development teams in Vietnam which will be steadily integrated in your organization and can eventually be fully transferred.
 
 _Our BOT model consists of three phases:_
 
@@ -13,20 +13,28 @@ _Our BOT model consists of three phases:_
 
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 ### Pick your job, Pick your future
-- [NBOT_Development Manager](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Development%20Manager.pdf) | 
-- [Tripadvisor_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Team%20Lead.pdf) |
-- [Tripadvisor_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-Java%20Developer.pdf) |
-- [Tripadvisor_QA Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/OTAs-QA%20Engineer.pdf) |
-- [PayOk_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Java%20Developer.pdf) |
-- [PayOk_Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf) |
-- [CW_PHP Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-PHP%20Team%20Lead.pdf) |
-- [CreditorWatch_PHP Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20_%20Senior%20PHP%20Developer.pdf) |
-- [CreditorWatch_Angular Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/CW%20-%20Senior%20Angular%20Developer.pdf) |
-- [MessageMedia_Frontend Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/Fintech-Frontend%20Developer.pdf) |
-- [MessageMedia_Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia-Senior%20Java%20Developer.pdf) |
-- [MessageMedia_Principal-Tech Lead ReactJs Engineer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/MessageMedia%20-%20Principal-Tech%20Lead%20ReactJs%20Engineer.pdf) |
-- [ISC_Java Team Lead](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Java%20Team%20Lead.pdf) Open-source Solutions |  
-- [ISC_Senior-Medior Java Developer](https://github.com/PhamNgocDuyKhanh/Join-our-talented-team/blob/main/ISC_Senior-Medior%20Java%20Developer.pdf) Open-source Solutions | 
+- [NBOT_Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
+- [Tripadvisor_Java Team Lead] |
+- [Tripadvisor_Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-ota/) |
+- [Tripadvisor_QA Engineer] |
+- [PayOk_Java Developer]|
+- [PayOk_Frontend Developer] |
+- [CW_PHP Team Lead] |
+- [CreditorWatch_PHP Developer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
+- [CreditorWatch_Angular Developer] |
+- [MessageMedia_Frontend Developer] |
+- [MessageMedia_Java Developer] |
+- [MessageMedia_Principal-Tech Lead ReactJs Engineer](https://careers.positivethinking.tech/ptc_jobs/principal-techlead-reactjs-engineer-mm/) |
+- [ISC_Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
+- [ISC_Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
+- [XPlor_Tech Lead (Javascript)](https://careers.positivethinking.tech/ptc_jobs/technical-lead-javascript-xplor/) | 
+- [XPlor_Senior Backend Engineer (Javascript)](https://careers.positivethinking.tech/ptc_jobs/senior-backend-engineer-javascript-xplor/) | 
+- [XPlor_ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/reactjs-engineer-xplor/) | 
+- [XPlor_Senior Manual QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-xplor/) | 
+- [OPT_.NET Team Lead](https://careers.positivethinking.tech/ptc_jobs/net-team-lead-opt/) | 
+- [OPT_Senior .NET Developer](https://careers.positivethinking.tech/ptc_jobs/senior-net-developer-opt/) | 
+- [OPT_Senior Angular Developer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-opt/) | 
+- [OPT_Senior QA Automation Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-automation-engineer-opt/) | 
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
