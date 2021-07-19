@@ -14,20 +14,27 @@ _Our BOT model consists of three phases:_
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 ### Pick your job, Pick your future
 - [NBOT_Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
-- [Tripadvisor_Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-ota/) |
-- [Tripadvisor_Java Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-ota/) |
+- [Tripadvisor_Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
+- [Tripadvisor_Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 - [Tripadvisor_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
+- [Sondersafe_Lead Java Engineer] (contact me for more details) |
+- [Sondersafe_ Java Engineer] (contact me for more details) |
+- [Sondersafe_ReactJS Engineer] (contact me for more details) |
+- [Sondersafe_Principal Mobile Engineer (iOS/Android] (contact me for more details) |
+- [Sondersafe_QA Engineer Engineer] (contact me for more details) |
+- [Comestri_Lead Ruby Engineer] (contact me for more details) |
+- [Comestri_Ruby Engineer] (contact me for more details) |
 - [PayOk_Java Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-java-developer-fintech/)|
 - [PayOk_ReactJS Engineer] |
-- [CreditorWatch_PHP Team Lead] |
+- [CreditorWatch_PHP Team Lead](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 - [CreditorWatch_PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
 - [CreditorWatch_Angular Engineer] |
 - [MessageMedia_ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-reactjs-engineer-mm/) |
 - [MessageMedia_Principal-Tech Lead ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/principal-techlead-reactjs-engineer-mm/) |
 - [MessageMedia_Java Engineer] |
 - [MessageMedia_PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-engineer-mm/) |
-- [ISC_Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
-- [ISC_Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
+- [Instaclustr_Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
+- [Instaclustr_Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
 - [XPlor_Tech Lead (Javascript)](https://careers.positivethinking.tech/ptc_jobs/technical-lead-javascript-xplor/) | 
 - [XPlor_Senior Backend Engineer (Javascript)](https://careers.positivethinking.tech/ptc_jobs/senior-backend-engineer-javascript-xplor/) | 
 - [XPlor_ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/reactjs-engineer-xplor/) | 
