@@ -24,7 +24,7 @@ _Our BOT model consists of three phases:_
 - [Sondersafe_QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
 - [Comestri_Lead Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/development-team-lead-ruby-on-rails-cmt/) |
 - [Comestri_Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
-- [Comestri_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/)
+- [Comestri_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
 - [PayOk_Java Engineer]|
 - [PayOk_ReactJS Engineer] |
 - [CreditorWatch_PHP Team Lead](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
