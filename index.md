@@ -17,14 +17,14 @@ _Our BOT model consists of three phases:_
 - [Tripadvisor_Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
 - [Tripadvisor_Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 - [Tripadvisor_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
-- [Sondersafe_Lead Java Engineer] (https://careers.positivethinking.tech/ptc_jobs/full-stack-java-leader-sds/) |
+- [Sondersafe_Lead Java Engineer](https://careers.positivethinking.tech/ptc_jobs/full-stack-java-leader-sds/) |
 - [Sondersafe_ Java Engineer] (contact me for more details) |
-- [Sondersafe_ReactJS Engineer] (https://careers.positivethinking.tech/ptc_jobs/senior-front-end-developer-sds/) |
-- [Sondersafe_Principal Mobile Engineer (iOS/Android] (https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
-- [Sondersafe_QA Engineer Engineer] (https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
-- [Comestri_Lead Ruby Engineer] (https://careers.positivethinking.tech/ptc_jobs/development-team-lead-ruby-on-rails-cmt/) |
-- [Comestri_Senior/Medior Ruby Engineer] (https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
-- [Comestri_QA Engineer] (https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/)
+- [Sondersafe_ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-front-end-developer-sds/) |
+- [Sondersafe_Principal Mobile Engineer (iOS/Android](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
+- [Sondersafe_QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
+- [Comestri_Lead Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/development-team-lead-ruby-on-rails-cmt/) |
+- [Comestri_Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
+- [Comestri_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/)
 - [PayOk_Java Engineer]|
 - [PayOk_ReactJS Engineer] |
 - [CreditorWatch_PHP Team Lead](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
