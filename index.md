@@ -18,9 +18,9 @@ _Our BOT model consists of three phases:_
 - [Tripadvisor_Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 - [Tripadvisor_QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
 - [Sondersafe_Lead Java Engineer](https://careers.positivethinking.tech/ptc_jobs/full-stack-java-leader-sds/) |
-- [Sondersafe_ Java Engineer] (contact me for more details) |
+- [Sondersafe_ Java Engineer] (https://careers.positivethinking.tech/ptc_jobs/senior-java-developer-sds/) |
 - [Sondersafe_ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-front-end-developer-sds/) |
-- [Sondersafe_Principal Mobile Engineer (iOS/Android](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
+- [Sondersafe_Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
 - [Sondersafe_QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
 - [CMT_Lead Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/development-team-lead-ruby-on-rails-cmt/) |
 - [CMT_Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
