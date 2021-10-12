@@ -19,36 +19,36 @@ _Our BOT model consists of three phases:_
 | Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
 | Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 | Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
-| Sondersafe | [Lead Java Engineer](Closed) |
+| Sondersafe | [Lead Java Engineer](Job Closed) |
 | Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-java-developer-sds/) |
-| Sondersafe | [ReactJS Engineer](Closed) |
+| Sondersafe | [ReactJS Engineer](Job Closed) |
 | Sondersafe | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
 | Sondersafe | [QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
-| Comestri | [Lead Ruby Engineer](Closed) |
+| Comestri | [Lead Ruby Engineer](Job Closed) |
 | Comestri | [Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
 | Comestri | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
-| PayOk | [Java Engineer](Closed)|
-| PayOk | [ReactJS Engineer](Closed) |
-| CreditorWatch | [PHP Team Lead](Closed) |
+| PayOk | [Java Engineer](Job Closed)|
+| PayOk | [ReactJS Engineer](Job Closed) |
+| CreditorWatch | [PHP Team Lead](Job Closed) |
 | CreditorWatch | [PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
 | CreditorWatch | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
 | MessageMedia | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
 | MessageMedia | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
-| MessageMedia | [ReactJS Engineer](Closed) |
-| MessageMedia | [Principal-Tech Lead ReactJS Engineer](Closed) |
-| MessageMedia | [PHP Engineer](Closed) |
+| MessageMedia | [ReactJS Engineer](Job Closed) |
+| MessageMedia | [Principal-Tech Lead ReactJS Engineer](Job Closed) |
+| MessageMedia | [PHP Engineer](Job Closed) |
 | Instaclustr | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
 | Instaclustr | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
 | XPlor | [.NET Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-net-developer-xplor/)
 | XPlor | [Mobile (iOS/Android Engineer)](https://careers.positivethinking.tech/ptc_jobs/medior-senior-mobile-ios-android-developer-xplor/)
-| XPlor | [Tech Lead (Javascript)](Closed) | 
-| XPlor | [Senior Backend Engineer (Javascript)](Closed) | 
-| XPlor | [ReactJS Engineer](Closed) | 
-| XPlor | [Senior Manual QA Engineer](Closed) | 
-| Opteon | [.NET Team Lead](Closed) | 
-| Opteon | [Senior .NET Engineer](Closed) | 
-| Opteon | [Senior Angular Engineer](Closed) | 
-| Opteon | [Senior QA Automation Engineer](Closed) | 
+| XPlor | [Tech Lead (Javascript)](Job Closed) | 
+| XPlor | [Senior Backend Engineer (Javascript)](Job Closed) | 
+| XPlor | [ReactJS Engineer](Job Closed) | 
+| XPlor | [Senior Manual QA Engineer](Job Closed) | 
+| Opteon | [.NET Team Lead](Job Closed) | 
+| Opteon | [Senior .NET Engineer](Job Closed) | 
+| Opteon | [Senior Angular Engineer](Job Closed) | 
+| Opteon | [Senior QA Automation Engineer](Job Closed) | 
 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
