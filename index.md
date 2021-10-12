@@ -19,18 +19,16 @@ _Our BOT model consists of three phases:_
     <tr>
       <th>BOT Entity</th>
       <th>Positions</th>
-      <th>Job Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><code class="highlighter-rouge">[Heading IDs](#heading-ids)</code></td>
-      <td><code class="highlighter-rouge"> &lt;a href="#heading-ids"&gt;Heading IDs&lt;/a&gt;</code></td>
-      <td><a href="#heading-ids">Heading IDs</a></td>
+      <td>NBOT</td>
+      <td><a href="https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/">Development Manager</a></td>
     </tr>
   </tbody>
 </table>
-
+[](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/)
 
 | NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
 | Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
