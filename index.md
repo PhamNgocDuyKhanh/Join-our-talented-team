@@ -1,6 +1,6 @@
-# Positive Thinking's B.O.T model
+# Positive Thinking Company's B.O.T model
 
-We bootstrap software development centers with our Build Operate Transfer model.
+We bootstrap software development centers with our **Build Operate Transfer** model.
 
 ### What are we building? 
 Positive Thinking is a specialist in the B.O.T model. Our BOT model provides a long-term solution for successfully delivering your product roadmap without outsourcing your software development. In just a few weeks, we can set up dedicated software development teams in Vietnam which will be steadily integrated in your organization and can eventually be fully transferred.
@@ -14,8 +14,26 @@ _Our BOT model consists of three phases:_
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 ### Pick your job, Pick your future
 
-| NBOT [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
-| Tripadvisor [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
+<table class="table table-bordered">
+  <thead class="thead-light">
+    <tr>
+      <th>BOT Entity</th>
+      <th>Positions</th>
+      <th>Job Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="highlighter-rouge">[Heading IDs](#heading-ids)</code></td>
+      <td><code class="highlighter-rouge"> &lt;a href="#heading-ids"&gt;Heading IDs&lt;/a&gt;</code></td>
+      <td><a href="#heading-ids">Heading IDs</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+| NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
+| Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
 | Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
 | Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
 | Sondersafe | [Lead Java Engineer](https://careers.positivethinking.tech/ptc_jobs/full-stack-java-leader-sds/) |
