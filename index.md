@@ -15,16 +15,18 @@ _Our BOT model consists of three phases:_
 ### Pick your job, Pick your future
 
 | BOT Entity | [Positions]() |
-| NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-bot/) | 
-| Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-fullstack-team-lead-ota/) |
-| Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-fullstack-developer-ota/) |
+| NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-city-bot/) | 
+| Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
+| Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
 | Sondersafe | [Lead Java Engineer](JobClosed) |
 | Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-java-developer-sds/) |
 | Sondersafe | [ReactJS Engineer](JobClosed) |
 | Sondersafe | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
 | Sondersafe | [QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
-| Comestri | [Lead Ruby Engineer](JobClosed) |
+| Comestri | [Java Tech Lead](https://careers.positivethinking.tech/ptc_jobs/java-technical-lead-cmt/) |
+| Comestri | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-java-developer/) |
+| Comestri | [Ruby on Rails Tech Lead](JobClosed) |
 | Comestri | [Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
 | Comestri | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
 | PayOk | [Java Engineer](JobClosed)|
@@ -34,11 +36,12 @@ _Our BOT model consists of three phases:_
 | CreditorWatch | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
 | MessageMedia | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
 | MessageMedia | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
-| MessageMedia | [ReactJS Engineer](JobClosed) |
+| MessageMedia | [ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/reactjs-engineer-mm/) |
 | MessageMedia | [Principal-Tech Lead ReactJS Engineer](JobClosed) |
 | MessageMedia | [PHP Engineer](JobClosed) |
 | Instaclustr | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
 | Instaclustr | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
+| Xplor | [.NET Tech Lead](https://careers.positivethinking.tech/ptc_jobs/senior-net-team-leader-xplor-ho-chi-minh-city-bot/) |
 | XPlor | [.NET Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-net-developer-xplor/)
 | XPlor | [Mobile (iOS/Android Engineer)](https://careers.positivethinking.tech/ptc_jobs/medior-senior-mobile-ios-android-developer-xplor/)
 | XPlor | [Tech Lead (Javascript)](JobClosed) | 
