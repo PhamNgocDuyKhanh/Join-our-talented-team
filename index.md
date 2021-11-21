@@ -13,7 +13,7 @@ _Our BOT model consists of three phases:_
 
 **3. TRANSFER:** When the time is right you can decide to acquire the legal ownership of the entire development center with its office, equipment, engineering staff such as Development Managers, Software Engineers and Product Owners but also all the existing operational and support staff so as to be fully autonomous straight away.
 ### Pick your job, Pick your future
-
+````
 | BOT Entity | [Positions]() |
 | NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-city-bot/) | 
 | Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
@@ -52,7 +52,7 @@ _Our BOT model consists of three phases:_
 | Opteon | [Senior .NET Engineer](JobClosed) | 
 | Opteon | [Senior Angular Engineer](JobClosed) | 
 | Opteon | [Senior QA Automation Engineer](JobClosed) | 
-
+```` 
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
 Drop me a message, I'll take care of the rest:
