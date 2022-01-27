@@ -18,12 +18,12 @@ _Our BOT model consists of three phases:_
 | NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-city-bot/) | 
 | Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
-| Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-ota/) |
+| Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
 | Sondersafe | [Lead Java Engineer](JobClosed) |
-| Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-java-developer-sds/) |
+| Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
 | Sondersafe | [ReactJS Engineer](JobClosed) |
-| Sondersafe | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc_jobs/senior-principal-android-developer-sds/) |
-| Sondersafe | [QA Engineer Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-manual-qa-engineer-sds/) |
+| Sondersafe | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc-jobs/senior-principal-android-developer-sds/) |
+| Sondersafe | [QA Engineer Engineer]() |
 | Comestri | [Java Tech Lead](https://careers.positivethinking.tech/ptc_jobs/java-technical-lead-cmt/) |
 | Comestri | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-java-developer/) |
 | Comestri | [Ruby on Rails Tech Lead](JobClosed) |
