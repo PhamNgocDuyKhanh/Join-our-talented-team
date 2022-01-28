@@ -16,9 +16,16 @@ _Our BOT model consists of three phases:_
 
 | BOT Entity | [Positions]() |
 | NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-city-bot/) | 
-| Tripadvisor | [Fullstack Team Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
-| Tripadvisor | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
-| Tripadvisor | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
+| [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Tech Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
+| [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
+| [Viator - Tripadvisor](https://www.viator.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
+| MessageMedia | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
+| MessageMedia | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
+| MessageMedia | [ReactJS Engineer]() |
+| MessageMedia | [Principal-Tech Lead ReactJS Engineer]() |
+| MessageMedia | [PHP Engineer]() |
+| [Infotrack](https://www.infotrack.com.au/) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc-jobs/net-team-lead-ift-ho-chi-minh-bot/) |
+| [Infotrack](https://www.infotrack.com.au/) | [ReactJS Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-medior-front-end-developer-reactjs-ift-ho-chi-minh-bot/) |
 | Sondersafe | [Lead Java Engineer](JobClosed) |
 | Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
 | Sondersafe | [ReactJS Engineer](JobClosed) |
@@ -34,11 +41,6 @@ _Our BOT model consists of three phases:_
 | CreditorWatch | [PHP Team Lead](JobClosed) |
 | CreditorWatch | [PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
 | CreditorWatch | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
-| MessageMedia | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
-| MessageMedia | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
-| MessageMedia | [ReactJS Engineer](https://careers.positivethinking.tech/ptc_jobs/reactjs-engineer-mm/) |
-| MessageMedia | [Principal-Tech Lead ReactJS Engineer](JobClosed) |
-| MessageMedia | [PHP Engineer](JobClosed) |
 | Instaclustr | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
 | Instaclustr | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
 | Xplor | [.NET Tech Lead](https://careers.positivethinking.tech/ptc_jobs/senior-net-team-leader-xplor-ho-chi-minh-city-bot/) |
