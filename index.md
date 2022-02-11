@@ -19,6 +19,7 @@ _Our BOT model consists of three phases:_
 | [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Tech Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
+| [Viator - Tripadvisor](https://www.viator.com/) | [Data Analyst](https://careers.positivethinking.tech/ptc-jobs/product-analyst-data-analyst-viator/) |
 | [MessageMedia](https://messagemedia.com/us/) | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
 | [MessageMedia](https://messagemedia.com/us/) | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
 | [MessageMedia](https://messagemedia.com/us/) | [ReactJS Engineer]() |
