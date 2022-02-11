@@ -19,41 +19,31 @@ _Our BOT model consists of three phases:_
 | [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Tech Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
-| MessageMedia | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
-| MessageMedia | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
-| MessageMedia | [ReactJS Engineer]() |
-| MessageMedia | [Principal-Tech Lead ReactJS Engineer]() |
-| MessageMedia | [PHP Engineer]() |
+| [MessageMedia](https://messagemedia.com/us/) | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/java-developer-mm/) |
+| [MessageMedia](https://messagemedia.com/us/) | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
+| [MessageMedia](https://messagemedia.com/us/) | [ReactJS Engineer]() |
+| [MessageMedia](https://messagemedia.com/us/) | [Principal-Tech Lead ReactJS Engineer]() |
+| [MessageMedia](https://messagemedia.com/us/) | [PHP Engineer]() |
 | [Infotrack](https://www.infotrack.com.au/) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc-jobs/net-team-lead-ift-ho-chi-minh-bot/) |
+| [Infotrack](https://www.infotrack.com.au/) | [.NET Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-medior-net-developer-ift-ho-chi-minh-bot/) |
 | [Infotrack](https://www.infotrack.com.au/) | [ReactJS Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-medior-front-end-developer-reactjs-ift-ho-chi-minh-bot/) |
-| Sondersafe | [Lead Java Engineer](JobClosed) |
-| Sondersafe | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
-| Sondersafe | [ReactJS Engineer](JobClosed) |
-| Sondersafe | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc-jobs/senior-principal-android-developer-sds/) |
-| Sondersafe | [QA Engineer Engineer]() |
-| Comestri | [Java Tech Lead](https://careers.positivethinking.tech/ptc_jobs/java-technical-lead-cmt/) |
-| Comestri | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-java-developer/) |
-| Comestri | [Ruby on Rails Tech Lead](JobClosed) |
-| Comestri | [Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
-| Comestri | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
-| PayOk | [Java Engineer](JobClosed)|
-| PayOk | [ReactJS Engineer](JobClosed) |
-| CreditorWatch | [PHP Team Lead](JobClosed) |
-| CreditorWatch | [PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
-| CreditorWatch | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
-| Instaclustr | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
-| Instaclustr | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
-| Xplor | [.NET Tech Lead](https://careers.positivethinking.tech/ptc_jobs/senior-net-team-leader-xplor-ho-chi-minh-city-bot/) |
-| XPlor | [.NET Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-net-developer-xplor/)
-| XPlor | [Mobile (iOS/Android Engineer)](https://careers.positivethinking.tech/ptc_jobs/medior-senior-mobile-ios-android-developer-xplor/)
-| XPlor | [Tech Lead (Javascript)](JobClosed) | 
-| XPlor | [Senior Backend Engineer (Javascript)](JobClosed) | 
-| XPlor | [ReactJS Engineer](JobClosed) | 
-| XPlor | [Senior Manual QA Engineer](JobClosed) | 
-| Opteon | [.NET Team Lead](JobClosed) | 
-| Opteon | [Senior .NET Engineer](JobClosed) | 
-| Opteon | [Senior Angular Engineer](JobClosed) | 
-| Opteon | [Senior QA Automation Engineer](JobClosed) | 
+| [Infotrack](https://www.infotrack.com.au/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-automation-ift/) |
+| [Sondersafe](https://www.sonder.io/) | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
+| [Sondersafe](https://www.sonder.io/) | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc-jobs/senior-principal-android-developer-sds/) |
+| [Comestri](https://www.comestri.com/) | [Java Tech Lead](https://careers.positivethinking.tech/ptc_jobs/java-technical-lead-cmt/) |
+| [Comestri](https://www.comestri.com/) | [Java Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-java-developer/) |
+| [Comestri](https://www.comestri.com/) | [Senior/Medior Ruby Engineer](https://careers.positivethinking.tech/ptc_jobs/ruby-on-rails-developer-cmt/) |
+| [Comestri](https://www.comestri.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
+
+| [CreditorWatch](https://creditorwatch.com.au/) | [PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
+| [CreditorWatch](https://creditorwatch.com.au/) | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
+| [Instaclustr](https://www.instaclustr.com/) | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
+| [Instaclustr](https://www.instaclustr.com/) | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
+| [Xplor](https://www.xplortechnologies.com/us) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc_jobs/senior-net-team-leader-xplor-ho-chi-minh-city-bot/) |
+| [Xplor](https://www.xplortechnologies.com/us) | [.NET Engineer](https://careers.positivethinking.tech/ptc_jobs/medior-senior-net-developer-xplor/)
+| [Xplor](https://www.xplortechnologies.com/us) | [Mobile (iOS/Android Engineer)](https://careers.positivethinking.tech/ptc_jobs/medior-senior-mobile-ios-android-developer-xplor/)
+| [Opteon](https://www.opteonsolutions.com/) | [PHP Engineer](https://careers.positivethinking.tech/ptc-jobs/php-engineer-opt/) | 
+
  
 ### Are you interested in joining us and make an impact on the world by every line of code?
 
