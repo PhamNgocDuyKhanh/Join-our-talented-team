@@ -24,10 +24,10 @@ _Our BOT model consists of three phases:_
 | [MessageMedia](https://messagemedia.com/us/) | [Quality Engineer](https://careers.positivethinking.tech/ptc_jobs/quality-engineer-mm/)
 | [MessageMedia](https://messagemedia.com/us/) | [ReactJS Engineer]() |
 | [MessageMedia](https://messagemedia.com/us/) | [Principal-Tech Lead ReactJS Engineer]() |
-| [MessageMedia](https://messagemedia.com/us/) | [PHP Engineer]() |
-| [Infotrack](https://www.infotrack.com.au/) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc-jobs/net-team-lead-ift-ho-chi-minh-bot/) |
-| [Infotrack](https://www.infotrack.com.au/) | [.NET Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-medior-net-developer-ift-ho-chi-minh-bot/) |
-| [Infotrack](https://www.infotrack.com.au/) | [ReactJS Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-medior-front-end-developer-reactjs-ift-ho-chi-minh-bot/) |
+| [MessageMedia](https://messagemedia.com/us/) | [PHP Engineer](https://careers.positivethinking.tech/ptc-jobs/php-engineer-mm/) |
+| [Infotrack](https://www.infotrack.com.au/) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc-jobs/net-team-lead-ift/) |
+| [Infotrack](https://www.infotrack.com.au/) | [.NET Engineer](https://careers.positivethinking.tech/ptc-jobs/net-engineer-ift/) |
+| [Infotrack](https://www.infotrack.com.au/) | [ReactJS Engineer](https://careers.positivethinking.tech/ptc-jobs/reactjs-engineer-ift/) |
 | [Infotrack](https://www.infotrack.com.au/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-automation-ift/) |
 | [Sondersafe](https://www.sonder.io/) | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
 | [Sondersafe](https://www.sonder.io/) | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc-jobs/senior-principal-android-developer-sds/) |
