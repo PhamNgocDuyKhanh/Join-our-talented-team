@@ -29,6 +29,7 @@ _Our BOT model consists of three phases:_
 | [Infotrack](https://www.infotrack.com.au/) | [.NET Engineer](https://careers.positivethinking.tech/ptc-jobs/net-engineer-ift/) |
 | [Infotrack](https://www.infotrack.com.au/) | [ReactJS Engineer](https://careers.positivethinking.tech/ptc-jobs/reactjs-engineer-ift/) |
 | [Infotrack](https://www.infotrack.com.au/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-automation-ift/) |
+| [Infotrack](https://www.infotrack.com.au/) | [Product Owner](https://careers.positivethinking.tech/ptc-jobs/product-owner-ift/) | 
 | [Sondersafe](https://www.sonder.io/) | [Java Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-java-developer-sds/) |
 | [Sondersafe](https://www.sonder.io/) | [Principal Mobile Engineer (iOS/Android)](https://careers.positivethinking.tech/ptc-jobs/senior-principal-android-developer-sds/) |
 | [Comestri](https://www.comestri.com/) | [Java Tech Lead](https://careers.positivethinking.tech/ptc_jobs/java-technical-lead-cmt/) |
