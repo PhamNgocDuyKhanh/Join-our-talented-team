@@ -16,7 +16,7 @@ _Our BOT model consists of three phases:_
 
 | BOT Entity | [Positions]() |
 | NBOT | [Development Manager](https://careers.positivethinking.tech/ptc_jobs/development-manager-ho-chi-minh-city-bot/) | 
-| [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Tech Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-full-stack-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
+| [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Tech Lead (Java & ReactJS)](https://careers.positivethinking.tech/ptc-jobs/java-team-lead-full-stack-viator-a-tripadvisor-company/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [Fullstack Engineer (Java & ReactJS)](https://careers.positivethinking.tech/ptc_jobs/senior-medior-full-stack-java-developer-viator-a-tripadvisor-company-ho-chi-minh-bot/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc-jobs/qa-engineer-viator-a-tripadvisor-company/) |
 | [Viator - Tripadvisor](https://www.viator.com/) | [Principal Data Analyst](https://careers.positivethinking.tech/ptc-jobs/principal-product-analyst-viator/) |
@@ -38,7 +38,7 @@ _Our BOT model consists of three phases:_
 | [Comestri](https://www.comestri.com/) | [QA Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-qa-engineer-cmt/) |
 
 | [CreditorWatch](https://creditorwatch.com.au/) | [PHP Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-php-developer-cw/) |
-| [CreditorWatch](https://creditorwatch.com.au/) | [Angular Engineer](https://careers.positivethinking.tech/ptc_jobs/senior-angular-developer-cw-bot/) |
+| [CreditorWatch](https://creditorwatch.com.au/) | [Angular Engineer](https://careers.positivethinking.tech/ptc-jobs/senior-frontend-engineer-cw/) |
 | [Instaclustr](https://www.instaclustr.com/) | [Java Team Lead](https://careers.positivethinking.tech/ptc_jobs/java-team-lead-isc/) Open-source Solutions |  
 | [Instaclustr](https://www.instaclustr.com/) | [Senior-Medior Java Developer](https://careers.positivethinking.tech/ptc_jobs/senior-medior-java-developer-isc/) Open-source Solutions | 
 | [Xplor](https://www.xplortechnologies.com/us) | [.NET Tech Lead](https://careers.positivethinking.tech/ptc_jobs/senior-net-team-leader-xplor-ho-chi-minh-city-bot/) |
